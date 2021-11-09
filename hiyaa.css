@@ -1,0 +1,32 @@
+#ofc {
+    display: inline; float : left; margin-left :50px; margin-top:20px;
+}
+/* style="display: inline; float:left; margin-left:20px; font-size : 17px;" */
+#hewan {
+    display: inline; float:left; margin-left:20px; font-size : 17px;
+}
+/* style="display: inline; float:right; margin-right:50px; font-size: 17px; text-align:right;" */
+#lahh {
+    display: inline; float:right; margin-right:50px; font-size: 17px; text-align:right;
+}
+/* style="float: left; margin-left:50px; */
+#naise {
+    float: left; margin-left:50px;
+}
+/* style="font-size: 17px;" */
+#jeep {
+    font-size: 15px;
+}
+/* style="float: left; margin-left:50px;" */
+#eaaa {
+    float: left; margin-left:50px;
+}
+/* id="myCanvas" width="350" height="200" style="border: 1px solid black; margin-left: 50px;" */
+/* style="margin-right: 3%;" */
+#heyoo {
+    margin-right: 1%;
+}
+/* style="float: right; margin-right:10px;" */
+#naam {
+    float: right; margin-right: 10px;
+}
